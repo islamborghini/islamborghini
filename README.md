@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Islam</h1>
-<h3 align="center">A passionate frontend developer from San Francisco</h3>
+<h3 align="center">A passionate full stack developer from San Francisco</h3>
 
-- 🔭 I’m currently working on the **private project**
+- 🔭 I’m currently working on **crypto trading adviser**
 
 - 🌱 I’m currently improving my skills in **Node.js, and Express.js**
 
-- 👯 I’m looking to collaborate on **AI projects**
+- 👯 I’m looking to collaborate on AI projects in **healthTech, edTech, businsess assistance**
 
 - 👨‍💻 All of my projects are available at [islamassanov.com](https://islamassanov.com)
 
 - 📫 How to reach me **islam@uni.minerva.edu**
 
-- 📄 Know about my experiences [AssanovIslam_Resume.pdf](https://www.dropbox.com/home?preview=AssanovIslam_Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://www.dropbox.com/home?preview=AssanovIslam_Resume.pdf)
 
 ---
 
