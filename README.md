@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently improving my skills in **Node.js, and Express.js**
 
-- 👯 I’m looking to collaborate on AI projects in **healthTech, edTech, businsess assistance**
+- 👯 I’m looking to collaborate on AI projects in **healthTech, edTech, and business assistance**
 
 - 👨‍💻 All of my projects are available at [islamassanov.com](https://islamassanov.com)
 
