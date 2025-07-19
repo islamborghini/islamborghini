@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Islam</h1>
+<h1 align="center">hi, I'm Islam</h1>
 <h3 align="center">A passionate full stack developer from San Francisco</h3>
 
-- 🔭 I’m currently working on **crypto trading adviser**
+- ₿ I’m currently working on **crypto trading adviser**. In popular terms - cursor for crypto.
 
-- 🌱 I’m currently improving my skills in **Node.js, and Express.js**
+- 🌱 I’m currently improving my skills in **Node.js, and Express.js**. But the main focus is on tech interview preparation, so check my Leetcode below. 
 
-- 👯 I’m looking to collaborate on AI projects in **healthTech, edTech, and business assistance**
+- 🚀 I’m looking to collaborate on AI projects in **healthTech, edTech, and business assistance**. However, if you have a cool idea, let's catch up. 
 
 - 👨‍💻 All of my projects are available at [islamassanov.com](https://islamassanov.com)
 
-- 📫 How to reach me **islam@uni.minerva.edu**
+- 📫 Reach out to me by email: **islam@uni.minerva.edu**
 
-- 📄 Know about my experiences [My Resume](https://www.dropbox.com/home?preview=AssanovIslam_Resume.pdf)
+- 📄 For HRs or anyone willing to check it: [My Resume](https://www.dropbox.com/home?preview=AssanovIslam_Resume.pdf)
 
 ---
 
