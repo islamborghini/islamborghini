@@ -1,7 +1,7 @@
-<h1 align="center">hi, I'm Islam</h1>
+<h1 align="center">Islam Assanov</h1>
 <h3 align="center">A passionate full stack developer from San Francisco</h3>
 
-- ₿ I’m currently working on **crypto trading adviser**. In popular terms - cursor for crypto.
+- ₿ I’m currently working on **codio"**. Social media for tech interview practice. 
 
 - 🌱 I’m currently improving my skills in **Node.js, and Express.js**. But the main focus is on tech interview preparation, so check my Leetcode below. 
 
@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me by email: **islam@uni.minerva.edu**
 
-- 📄 For HRs or anyone willing to check it: [My Resume](https://www.dropbox.com/home?preview=AssanovIslam_Resume.pdf)
+- 📄 For HRs or anyone willing to check it: [My Resume](https://www.dropbox.com/scl/fi/e4rvinygdppfbrd2lzh5x/Assanov__Islam.pdf?rlkey=09us58s3cxwkxayojw8pluddy&st=q5bnb8sa&dl=0)
 
 ---
 
