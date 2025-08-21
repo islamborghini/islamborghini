@@ -11,7 +11,7 @@
 
 - 📫 Reach out to me by email: **islam@uni.minerva.edu**
 
-- 📄 For HRs or anyone willing to check it: [My Resume](https://www.dropbox.com/scl/fi/e4rvinygdppfbrd2lzh5x/Assanov__Islam.pdf?rlkey=09us58s3cxwkxayojw8pluddy&st=q5bnb8sa&dl=0)
+- 📄 For HRs or anyone willing to check it: [My Resume](https://www.dropbox.com/scl/fi/9ipabn8bxsmhudds6xvqi/Assanov_Islam_Main_Resume.pdf?rlkey=tkqxobuaspx2mpx6i4nq2ist3&st=gddvkdnl&dl=0)
 
 ---
 
